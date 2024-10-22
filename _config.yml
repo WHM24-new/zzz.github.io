@@ -1,4 +1,4 @@
-name: WHM 
+name: WHM 主页
 url: https://xiaohang007.github.io/
 
 exclude: [bibble, README.md, Makefile, screenshot.png]
@@ -34,9 +34,9 @@ collections:
 
 # Navigation bar links.
 navigation:
-  - title: 主页 Home
+  - title: Living Style
     link: /
-  - title: 科研项目 Research
+  - title: Picture
     link: /research.html
-  - title: 论文 Publications
+  - title: Contact way
     link: /publications.html
