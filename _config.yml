@@ -1,5 +1,5 @@
 name: WHM 
-url: https://xiaohang007.github.io/
+url: https://whm.github.io/
 
 exclude: [bibble, README.md, Makefile, screenshot.png]
 
@@ -34,9 +34,9 @@ collections:
 
 # Navigation bar links.
 navigation:
-  - title: 小组概况
+  - title:1小组
     link: /
-  - title: 个人介绍
+  - title:2个人
     link: /research.html
-  - title: 生活分享
+  - title:3生活
     link: /publications.html
