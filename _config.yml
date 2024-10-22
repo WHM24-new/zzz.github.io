@@ -34,9 +34,9 @@ collections:
 
 # Navigation bar links.
 navigation:
-  - title:1小组
+  - title: 1小组
     link: /
-  - title:2个人
+  - title: 2个人
     link: /research.html
-  - title:3生活
+  - title: 3生活
     link: /publications.html
